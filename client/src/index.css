@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.bookTable{
+  border-spacing: 10px;
+  border-collapse: collapse;
+}
+
+.bookTable td{
+  border:1px solid #444;
+  padding: 10px;
+}
+.nav{
+  padding: 0 10px;
+}
+
